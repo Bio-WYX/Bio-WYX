@@ -11,4 +11,6 @@ Here are some ideas to get you started:
   - python数据库爬取、数据统计
   - 机器学习
 - 📫 imauwyxbio@gmail.com
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
