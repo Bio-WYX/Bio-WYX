@@ -11,4 +11,4 @@ Here are some ideas to get you started:
   - python数据库爬取、数据统计
   - 机器学习
 - 📫 imauwyxbio@gmail.com
-
+![Static Badge](https://img.shields.io/badge/:badgeContent)
