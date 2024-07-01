@@ -13,8 +13,13 @@ Here are some ideas to get you started:
 - 📫 imauwyxbio@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bio-WYX&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+From: 10 July 2020 - To: 06 August 2022
+
+Total Time: 1,464 hrs 54 mins
+
+Python             859 hrs 29 mins >>>>>>>>>>>>>>-----------   54.68 %
+Markdown           132 hrs 33 mins >>-----------------------   08.43 %
+TeX                103 hrs 52 mins >>-----------------------   06.61 %
+HTML               94 hrs 48 mins  >>-----------------------   06.03 %
+Nim                64 hrs 31 mins  >------------------------   04.11 %
+Other              47 hrs 58 mins  >------------------------   03.05 %
