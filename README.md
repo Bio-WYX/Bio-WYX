@@ -1,4 +1,4 @@
-## Hi there 👋
+## Bio-WYX 👋
 
 <!--
 **Bio-WYX/Bio-WYX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
